@@ -22,7 +22,6 @@ The system automates the transition from raw clinical datasets to objective stat
 ### 1. Population Normative Data
 The engine extracts and plots the distribution of clinical metrics across the entire cohort, allowing for the immediate identification of outliers or pathological signatures.
 ![Cohort Histograms](images/erg-cohort-histograms.png)
-
 *Figure 1: Population distributions for OP Amplitudes (µV) and Implicit Times (ms).*
 
 ### 2. Feature Correlation Heatmap
