@@ -28,6 +28,7 @@ The engine extracts and plots the distribution of clinical metrics across the en
 This visualization assesses the relationship between technical metrics (SNR) and clinical outcomes, ensuring the extracted features are statistically robust.
 
 ![Correlation Heatmap](images/erg-correlation-heatma.png)
+
 *Figure 2: Spearman/Pearson correlation matrix of ERG-OP parameters.*
 
 ### 3. Best-SNR Scalogram Analysis
