@@ -21,7 +21,9 @@ The system automates the transition from raw clinical datasets to objective stat
 
 ### 1. Population Normative Data
 The engine extracts and plots the distribution of clinical metrics across the entire cohort, allowing for the immediate identification of outliers or pathological signatures.
+
 ![Cohort Histograms](images/erg-cohort-histograms.png)
+
 *Figure 1: Population distributions for OP Amplitudes (µV) and Implicit Times (ms).*
 
 ### 2. Feature Correlation Heatmap
@@ -33,7 +35,9 @@ This visualization assesses the relationship between technical metrics (SNR) and
 
 ### 3. Best-SNR Scalogram Analysis
 The pipeline automatically identifies the signal with the highest fidelity to provide a benchmark time-frequency analysis using the **Ricker (Mexican Hat) wavelet**.
+
 ![High SNR Scalogram](images/erg-high-snr-scalogram.png)
+
 *Figure 3: Optimal time-frequency localization of OPs (30-60ms band) for the highest SNR subject.*
 
 ---
